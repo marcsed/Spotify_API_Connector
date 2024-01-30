@@ -1,0 +1,8 @@
+
+config.py
+.env
+.cache
+.ipynb_checkpoints/config-checkpoint.py
+.ipynb_checkpoints/Spotify_API_Connector-checkpoint.ipynb
+__pycache__/config.cpython-311.pyc
+.DS_Store
